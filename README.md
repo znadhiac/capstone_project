@@ -10,6 +10,7 @@ E-mail: zulfinadhiac@gmail.com
 
 
 
+
 DESKRIPSI PROJECT
 
 Project ini adalah sebuah mini aplikasi berbasis Python untuk mengelola daftar produk barang elektronik dalam gudang bernama Gudang Elektronik Nadhia. 
@@ -23,21 +24,31 @@ Data-data tersebut terdiri dari 6 kolom (key), di mana key ‘KODE’ merupakan 
 
 FITUR UTAMA
 1.	Menu Utama (Main Menu)
+   
 Menu utama membantu pengguna untuk menjalankan menu lainnya, yaitu display menu, add menu, update menu, dan delete menu.
 Pengguna juga bisa memilih untuk keluar program melalui menu utama ini.
+
 2.	Menampilkan Daftar Produk (Display Menu)
+
 -	Menampilkan seluruh daftar produk elektronik yang tersedia di gudang
 -	Menampilkan produk berdasarkan kode produk
 -	Menampilkan produk berdasarkan kategori produk
 -	Menampilkan produk berdasarkan brand produk
 -	Menampilkan daftar produk dalam format tabel untuk kemudahan membaca
+
 3.	Menambahkan Produk (Add Menu)
+   
 Menu ini memungkinkan pengguna untuk menambahkan produk baru ke daftar produk.
+
 4.	Mengubah Data Produk (Update Menu)
+
 Menu ini memungkinkan pengguna untuk mengubah atau memperbarui data produk ke daftar produk, yang terdiri dari data kategori, brand, tahun rilis, stok, dan harga barang elektronik.
 Namun, pengguna tidak bisa mengubah data di dalam kolom kode produk karena merupakan primary key.
+
 5.	Menghapus Produk (Delete Menu)
+
 Menu ini memungkinkan pengguna untuk menghapus produk yang sudah ada di daftar produk.
+
 
 TEKNOLOGI YANG DIGUNAKAN
 -	Python
